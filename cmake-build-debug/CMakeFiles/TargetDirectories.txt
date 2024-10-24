@@ -1,0 +1,5 @@
+/home/yjy/Documents/RM_2025/go_test/cmake-build-debug/CMakeFiles/board_c.dir
+/home/yjy/Documents/RM_2025/go_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yjy/Documents/RM_2025/go_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yjy/Documents/RM_2025/go_test/cmake-build-debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/yjy/Documents/RM_2025/go_test/cmake-build-debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
